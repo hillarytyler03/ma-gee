@@ -1,3 +1,1 @@
 # cleanhaven
-# ma-gee
-# cleanhaven
